@@ -58,7 +58,6 @@ def main(filename):
             none.append(domain)
             print(f"[✗] {domain} tidak bisa diakses")
 
-    # Simpan ke file
     with open("redirected_to_https.txt", "w") as f:
         f.write("\n".join(redirected))
     with open("only_http.txt", "w") as f:
