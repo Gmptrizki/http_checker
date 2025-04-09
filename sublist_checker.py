@@ -18,7 +18,7 @@ def run_sublist3r(domain):
         print("❗ Sublist3r tidak ditemukan. Pastikan sudah terinstall!")
 
 def main():
-    print("=== Sublist3r Auto Scanner ===")
+    print("=== Sublist3r Auto Scanner V1===")
     domain = input("Masukkan domain (contoh: example.com): ").strip()
 
     if domain == "":
