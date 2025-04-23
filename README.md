@@ -4,8 +4,8 @@
 This tool was created with the aim of facilitating the process of analyzing vulnerabilities in a system, especially those related to domains and websites. The analysis is carried out through several stages, with the ultimate goal of finding unprotected subdomains that have the potential to become loopholes for the injection process 🚀💣💥
 
 > [!IMPORTANT]  
-> [ ] Make sure **Python** is installed.
-> [ ] Make sure **Sublist3r** is installed.
+- [ ] Make sure **Python** is installed.
+- [ ] Make sure **Sublist3r** is installed.
 
 1. Running sublist_checker.py & Enter domain
 
